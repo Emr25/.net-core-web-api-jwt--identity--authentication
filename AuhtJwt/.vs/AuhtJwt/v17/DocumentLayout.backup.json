@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|c:\\users\\lenovo\\source\\repos\\auhtjwt\\auhtjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|solutionrelative:auhtjwt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|c:\\users\\lenovo\\source\\repos\\auhtjwt\\auhtjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|solutionrelative:auhtjwt\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|c:\\users\\lenovo\\source\\repos\\auhtjwt\\auhtjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|solutionrelative:auhtjwt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|c:\\users\\lenovo\\source\\repos\\auhtjwt\\auhtjwt\\data\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|solutionrelative:auhtjwt\\data\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|c:\\users\\lenovo\\source\\repos\\auhtjwt\\auhtjwt\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59454F92-8451-41FB-B55C-58339EFCEEB3}|AuhtJwt\\AuhtJwt.csproj|solutionrelative:auhtjwt\\data\\applicationdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Program.cs",
+              "RelativeDocumentMoniker": "AuhtJwt\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Program.cs",
+              "RelativeToolTip": "AuhtJwt\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:54:29.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\appsettings.json",
+              "RelativeDocumentMoniker": "AuhtJwt\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\appsettings.json",
+              "RelativeToolTip": "AuhtJwt\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T09:50:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Data\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AuhtJwt\\Data\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Data\\RegisterModel.cs",
+              "RelativeToolTip": "AuhtJwt\\Data\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:49:04.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuhtJwt\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuhtJwt\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:06:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Data\\ApplicationDbContext .cs",
+              "RelativeDocumentMoniker": "AuhtJwt\\Data\\ApplicationDbContext .cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\AuhtJwt\\AuhtJwt\\Data\\ApplicationDbContext .cs",
+              "RelativeToolTip": "AuhtJwt\\Data\\ApplicationDbContext .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T12:00:14.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
